@@ -1,0 +1,7 @@
+carla==0.9.15
+ipykernel==6.16.2
+ipython==7.33.0
+jedi==0.19.1
+jupyter_client==7.4.9
+jupyter_core==4.11.1
+notebook==6.5.7
